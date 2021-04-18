@@ -8,7 +8,7 @@ Four different languages are supported for the moment:
 - French
 - English
 - German
-- Spanish: handcrafted dictionary; may lack of precision.
+- Spanish
 
 ## Consonant-vowel dicts
 
